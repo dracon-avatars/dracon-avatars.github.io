@@ -1,6 +1,6 @@
 @inproceedings{raj2020pva,
   title={DRaCoN – Differentiable Rasterization Conditioned Neural Radiance Fields for Articulated Avatars},
   author={Raj, Amit and Iqbal, Umar and Nagano, Koki and Khamis, Sameh and Molchanov, Pavlo and Hays, James and Kautz, Jan},
-  booktitle={},
+  booktitle={arXiv:2203.15798},
   year={2022}
 }
